@@ -1,0 +1,9 @@
+{
+	"name": "ADFDemoYoutubeGT",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6d08e589-f5b0-4541-88f8-c3556d3d9622",
+		"tenantId": "7cae695b-1491-4480-b517-a7f204e4892c"
+	}
+}
